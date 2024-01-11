@@ -6,7 +6,16 @@
 
 <br>
 
-- I’m currently open for an Internship or a new job opportunity.
+- I’m currently open for an Internship or a new job opportunity. 
+
+**About Me:**
+- 🎓 Freshly graduated Communication Engineer
+- 💡 Passionate about Web Development and Communication Systems Optimization
+- 🚀 Actively seeking opportunities to apply my skills in real-world projects
+- 🌐 Solid understanding of HTML, CSS, and JavaScript for Front-End Development
+- 💻 Proficient in Back-End technologies such as .NET, PHP, and MySQL
+- ☁️ Familiar with cloud hosting platforms like GitHub Pages
+- 📈 Eager to contribute to innovative projects and collaborate with dynamic teams
 
 <br><br>
 
