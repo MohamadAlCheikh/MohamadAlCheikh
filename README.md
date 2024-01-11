@@ -11,7 +11,7 @@
 **About Me:**
 - 🎓 Freshly graduated Communication Engineer
 - 💡 Passionate about Web Development and Communication Systems Optimization
-- 🚀 Actively seeking opportunities to apply my skills in real-world projects
+- 🚀 Actively seeking opportunities for Internship or a new job
 - 🌐 Solid understanding of HTML, CSS, and JavaScript for Front-End Development
 - 💻 Proficient in Back-End technologies such as .NET, PHP, and MySQL
 - ☁️ Familiar with cloud hosting platforms like GitHub Pages
