@@ -6,10 +6,6 @@
 
 <br>
 
-<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
-
-<br>
-
 - I’m currently open for an Internship or a new job opportunity.
 
 <br><br>
@@ -95,20 +91,6 @@
 
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<br>
-<br>
-<br>
 
-<div align='center'>
 
-</div>
-<br>
-<br>
-<br>
-<br>
 
----
-
-<br>
-
-Now you can use this Markdown template in your GitHub profile or README file. Feel free to customize it further to match your preferences!
