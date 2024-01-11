@@ -27,13 +27,7 @@
 
 <p align="center">
 
-- **Languages**:
-    
- ![.NET](https://img.shields.io/badge/.NET%20-%512BD4.svg?style=for-the-badge&logo=.net&logoColor=white)
-
-![PHP](https://img.shields.io/badge/PHP%20-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-
-<br>   
+- **Languages**:  
     
 - **Front-End Development**:
 
@@ -42,6 +36,12 @@
    ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 
 <br>
+- **Back-End Development**:
+ ![.NET](https://img.shields.io/badge/.NET%20-%512BD4.svg?style=for-the-badge&logo=.net&logoColor=white)
+
+![PHP](https://img.shields.io/badge/PHP%20-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+
+<br> 
 
 - **Cloud Hosting**:
 
