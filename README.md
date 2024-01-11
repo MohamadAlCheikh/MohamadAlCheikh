@@ -6,8 +6,6 @@
 
 <br>
 
-- I’m currently open for an Internship or a new job opportunity. 
-
 **About Me:**
 - 🎓 Freshly graduated Communication Engineer
 - 💡 Passionate about Web Development and Communication Systems Optimization
